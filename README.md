@@ -1,4 +1,4 @@
-# AgiaTouristGuidePrivacy
+#VisitAgiaPrivacy
 
 Privacy Policy
 
